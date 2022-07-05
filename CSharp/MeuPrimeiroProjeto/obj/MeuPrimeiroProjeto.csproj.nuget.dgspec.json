@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\Desktop\\CSharp\\MeuPrimeiroProjeto\\MeuPrimeiroProjeto.csproj": {}
+    "C:\\Users\\Aluno\\Desktop\\CSharp_LPR\\CSharp\\MeuPrimeiroProjeto\\MeuPrimeiroProjeto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\Desktop\\CSharp\\MeuPrimeiroProjeto\\MeuPrimeiroProjeto.csproj": {
+    "C:\\Users\\Aluno\\Desktop\\CSharp_LPR\\CSharp\\MeuPrimeiroProjeto\\MeuPrimeiroProjeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\CSharp\\MeuPrimeiroProjeto\\MeuPrimeiroProjeto.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\CSharp_LPR\\CSharp\\MeuPrimeiroProjeto\\MeuPrimeiroProjeto.csproj",
         "projectName": "MeuPrimeiroProjeto",
-        "projectPath": "C:\\Users\\Aluno\\Desktop\\CSharp\\MeuPrimeiroProjeto\\MeuPrimeiroProjeto.csproj",
+        "projectPath": "C:\\Users\\Aluno\\Desktop\\CSharp_LPR\\CSharp\\MeuPrimeiroProjeto\\MeuPrimeiroProjeto.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\Desktop\\CSharp\\MeuPrimeiroProjeto\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\Desktop\\CSharp_LPR\\CSharp\\MeuPrimeiroProjeto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
