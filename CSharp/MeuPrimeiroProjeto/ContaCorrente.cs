@@ -16,17 +16,17 @@ public class ContaCorrente
   {
     if (this.Saldo >= valorSaque)
     {
-    this.Saldo = Saldo - valorSaque;
+    this.Saldo = this.Saldo - valorSaque;
     return true ;
     }
     return false ;
   }
 
-/*public bool Depositar (double valorDepositar)
+public bool Depositar (double valorDepositar)
 {
-  this.Saldo = Saldo + valorDepositar;
+  this.Saldo = this.Saldo + valorDepositar;
   return true ;
 }
-*/
+
 
 }

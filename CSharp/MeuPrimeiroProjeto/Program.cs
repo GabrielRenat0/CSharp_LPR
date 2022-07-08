@@ -8,6 +8,7 @@ namespace MeuPrimeiroProjeto
         {
          ContaCorrente conta1 = new ContaCorrente ("Gabriel Renato", 12345 , 6789, 1000);
          bool sacar_conta1 = conta1.Sacar(100) ;
+         bool depositar_conta1 = conta1.Depositar(110) ;
          
          Console.WriteLine ("*******************");
          Console.WriteLine (" A conta é do(a) " + conta1.Titular) ;
@@ -18,6 +19,7 @@ namespace MeuPrimeiroProjeto
 
          ContaCorrente conta2 = new ContaCorrente ("Fabio Henrique The Second", 54321 , 9876 , 2750);
          bool sacar_conta2 = conta2.Sacar(100) ;
+         bool depositar_conta2 = conta2.Depositar(200) ;
          
          Console.WriteLine ("*******************");
          Console.WriteLine (" A conta é do(a) " + conta2.Titular) ;
@@ -28,6 +30,7 @@ namespace MeuPrimeiroProjeto
 
          ContaCorrente conta3 = new ContaCorrente ("Bruno Nunes Teixeira" , 10101 , 9371 , 1500);
          bool sacar_conta3 = conta3.Sacar(100) ;
+         bool depositar_conta3 = conta3.Depositar(300) ;
     
          Console.WriteLine ("*******************");
          Console.WriteLine (" A conta é do(a) " + conta3.Titular) ;
